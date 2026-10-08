@@ -12,14 +12,14 @@ AWS / IaC / CI/CD / Monitoring の実践を目的として構築する、個人�
 
 ### Public
 
-- 公開済み記事の閲覧
+* 公開済み記事の閲覧
 
 ### Admin
 
-- 管理者ログイン
-- 記事の作成
-- 記事の編集
-- 記事の削除
+* 管理者ログイン
+* 記事の作成
+* 記事の編集
+* 記事の削除
 
 初期リリースでは、上記の最小機能を実装対象とします。
 
@@ -27,26 +27,26 @@ AWS / IaC / CI/CD / Monitoring の実践を目的として構築する、個人�
 
 ### Frontend
 
-- TypeScript
-- Next.js
+* TypeScript
+* Next.js
 
 ### Backend
 
-- Python
-- FastAPI
+* Python
+* FastAPI
 
 ### Database
 
-- PostgreSQL
+* PostgreSQL
 
 ### Infrastructure
 
-- AWS
-- Terraform
+* AWS
+* Terraform
 
 ### CI/CD
 
-- GitHub Actions
+* GitHub Actions
 
 ## Architecture
 
@@ -84,4 +84,4 @@ PostgreSQL
 
 ## Documentation
 
-- `docs/requirements.md` - 要件定義
+* `docs/requirements.md` - 要件定義
